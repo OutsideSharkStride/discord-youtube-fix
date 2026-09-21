@@ -1,0 +1,10 @@
+# discord-youtube-fix
+
+Сборка discord-youtube-fix для тех, кому одновременно нужны Discord, YouTube и Telegram без туннеля.
+
+Сборка discord-youtube-fix для тех, кому одновременно нужны Discord, YouTube и Telegram без туннеля. обход блокировок без VPN, обход DPI Windows, zapret скачать, Discord и YouTube fix. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/OutsideSharkStride/discord-youtube-fix/releases/latest
+Код: https://github.com/OutsideSharkStride/discord-youtube-fix
+Основа: https://github.com/bol-van/zapret
+Страница: https://github.com/OutsideSharkStride/discord-youtube-fix
